@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+vibesearch/__init__.py
+vibesearch/vibesearch.py
+vibesearch.egg-info/PKG-INFO
+vibesearch.egg-info/SOURCES.txt
+vibesearch.egg-info/dependency_links.txt
+vibesearch.egg-info/top_level.txt
