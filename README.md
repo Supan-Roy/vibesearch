@@ -3,8 +3,9 @@
 A fun, vibe-based searching algorithm — totally not serious!
 
 ## Installation
+```
 pip install vibesearch
-
+```
 ## Usage
 ```python
 from vibesearch import vibesearch
